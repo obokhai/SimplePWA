@@ -8,7 +8,7 @@
     "description": "A complete guide to PWA",
     "icons": [
     {
-      "src": "./assets/src/icons/apple.png",
+      "src": "src/icons/apple.png",
       "sizes": "512x512",
       "type": "image/png"
     }

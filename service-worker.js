@@ -8,5 +8,4 @@ workbox.routing.registerRoute(
 workbox.routing.registerRoute(
     ({request}) => request.destination ==="script",
     new workbox.strategies.NetworkFirst()
-
 )
