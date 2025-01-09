@@ -1,0 +1,19 @@
+{
+    "name": "Simple PWA Counting Application",
+    "short_name": "PWA Count",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color" : "#242424",
+    "theme_color": "#fff",
+    "description": "A complete guide to PWA",
+    "icons": [
+    {
+      "src": "./src/icons/apple.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+    
+  ]
+
+}
+
